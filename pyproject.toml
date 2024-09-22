@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_comparemodelweights"
+description = "ComfyUI nodes to use CompareModelWeights"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/leeguandong/ComfyUI_CompareModelWeights"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_CompareModelWeights"
+Icon = ""
